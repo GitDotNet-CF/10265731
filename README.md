@@ -1,1 +1,1 @@
-Copyright (c) 2021 AgainstRecNet  (TheRecRoomVault Made The Software)
+Copyright (c) 2021 AgainstRecNet (Someone Made the Software)
